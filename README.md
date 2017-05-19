@@ -4,7 +4,7 @@ A-Frame demonstration program with [A-Frame](https://aframe.io).
 
 ## Getting Started
 
-Log in to your Cloud 9 account and create a new HTML 5 workspace.  Clone the [repo](git@github.com:JaffeAPCSP/aframe-demo-1.git) to initialize your workspace.
+Log in to your Cloud 9 account and create a new HTML 5 workspace.  Clone the [repo](https://github.com/JaffeAPCSP/aframe-demo-1.git) to initialize your workspace.
 
 <hr>
 
