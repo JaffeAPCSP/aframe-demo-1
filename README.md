@@ -30,3 +30,8 @@ See if you can adjust the code to do the following:
 * Change the size of the box
 * Find an image file (jpg or png) with a red color and change the color of Makey the Robot to red
 * Change the scale of Makey the Robot to make him bigger
+* Make the box spin slower
+* Make the box spin around the x- or z-axis
+* Make the Earth spin faster
+* Make the Earth spin the other way (crazy time zone changes!)
+* Move Slimey away from the camera
