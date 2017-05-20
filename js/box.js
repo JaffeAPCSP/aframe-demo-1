@@ -1,3 +1,5 @@
+/* global AFRAME*/
+
 AFRAME.registerComponent('box', {
 	schema: {
 		delta: {type: 'number', default: 5}
@@ -17,7 +19,4 @@ AFRAME.registerComponent('box', {
 		this.el.setAttribute('rotation', currentRotation);		
 	},
 
-	update: function(oldData) {
-		console.log('update');
-	}
 });

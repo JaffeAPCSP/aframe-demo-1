@@ -1,3 +1,5 @@
+/* global AFRAME*/
+
 AFRAME.registerComponent('earth', {
 	schema: {
 		delta: {type: 'number', default: 0.5}
@@ -17,7 +19,4 @@ AFRAME.registerComponent('earth', {
 		this.el.setAttribute('rotation', currentRotation);		
 	},
 
-	update: function(oldData) {
-		console.log('update');
-	}
 });
